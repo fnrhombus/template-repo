@@ -1,0 +1,14 @@
+{
+  "name": "__PACKAGE_NAME__",
+  "version": "0.0.0",
+  "description": "__DESCRIPTION__",
+  "scripts": {
+    "build": "echo 'TODO: add build command' && exit 1",
+    "test": "echo 'TODO: add test command' && exit 1",
+    "lint": "echo 'TODO: add lint command' && exit 1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  }
+}
